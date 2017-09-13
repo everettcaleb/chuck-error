@@ -1,0 +1,29 @@
+{
+  "name": "chuck-error",
+  "version": "1.0.0",
+  "description": "Throws an error as an expression so you can mix it with inline stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everettcaleb/chuck-error.git"
+  },
+  "keywords": [
+    "throw",
+    "error",
+    "expression",
+    "syntax",
+    "sugar"
+  ],
+  "author": "Caleb Everett <everettcaleb95@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/everettcaleb/chuck-error/issues"
+  },
+  "homepage": "https://github.com/everettcaleb/chuck-error#readme",
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  }
+}
